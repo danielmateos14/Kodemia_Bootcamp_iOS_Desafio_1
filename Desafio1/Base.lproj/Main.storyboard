@@ -1537,7 +1537,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="mO8-qw-bMi"/>
+        <segue reference="ytk-Zn-rPD"/>
         <segue reference="b7c-iz-xaL"/>
     </inferredMetricsTieBreakers>
     <resources>
@@ -1565,7 +1565,7 @@
             <color red="0.0" green="0.35566986243183152" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
         </namedColor>
         <namedColor name="ColorTitulos">
-            <color red="0.0" green="0.87673611111111116" blue="0.87673611111111116" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+            <color red="0.0" green="0.87699997425079346" blue="0.87699997425079346" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
         </namedColor>
         <namedColor name="FondoView">
             <color red="0.79799997806549072" green="0.72000002861022949" blue="0.76200002431869507" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
